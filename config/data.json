@@ -9,6 +9,22 @@
     {
       "name": "jetbrains",
       "type": "pdf"
+    },
+    {
+      "name": "intersolution-factuur",
+      "type": "pdf"
+    },
+    {
+      "name": "apple-invoice",
+      "type": "html"
+    },
+    {
+      "name": "crossfit",
+      "type": "pdf"
+    },
+    {
+      "name": "insify",
+      "type": "pdf"
     }
   ]
 }

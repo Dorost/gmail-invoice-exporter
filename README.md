@@ -33,3 +33,6 @@ do its job.
 
 We welcome contributors to improve and add new features to this project.
 - Better text to PDF formatting
+
+**DISCLAIMER: This repository was initially intended for my personal use only, and not implemented in an efficient way nor tested thoroughly.
+if you are using this repository use it with your own caution and know what you are doing.**
