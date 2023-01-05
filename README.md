@@ -5,7 +5,7 @@ Gmail Invoice Exporter
 Using this repository you can extract invoices from your Gmail account as PDF files and sort them based on their dates.
 It is useful when you want to submit your expenses to your accountant/tax authorities for VAT declaration.
 
-There are two types of invoices that I usually get:]
+There are two types of invoices that I usually get:
 1. A PDF file that is attached to the email
 2. An HTML based invoice which is the body of the email itself
 
