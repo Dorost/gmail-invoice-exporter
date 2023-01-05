@@ -27,4 +27,9 @@ to also indicate the time period you want to fetch these invoices.
 5. Run `docker-compose up`
 6. This will generate a URL for you to do OAUTH step for your Gmail account. Authorize the application and let the script
 do its job. 
-7. You will have all the invoices stored under `/data` directory. 
+7. You will have all the invoices stored under `/data` directory.
+
+## Future Improvement 
+
+We welcome contributors to improve and add new features to this project.
+- Better text to PDF formatting
