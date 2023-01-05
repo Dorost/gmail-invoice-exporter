@@ -1,0 +1,30 @@
+{
+  "after": "2022-10-01",
+  "before": "2022-12-31",
+  "target_labels": [
+    {
+      "name": "google",
+      "type": "html"
+    },
+    {
+      "name": "jetbrains",
+      "type": "pdf"
+    },
+    {
+      "name": "intersolution-factuur",
+      "type": "pdf"
+    },
+    {
+      "name": "apple-invoice",
+      "type": "html"
+    },
+    {
+      "name": "crossfit",
+      "type": "pdf"
+    },
+    {
+      "name": "insify",
+      "type": "pdf"
+    }
+  ]
+}

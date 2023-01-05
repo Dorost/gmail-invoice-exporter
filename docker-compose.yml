@@ -1,0 +1,11 @@
+version: '3'
+services:
+  gmail-invoice-exporter:
+    build:
+      context: .
+    network_mode: host
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./config/:/home/app/config/
+      - ./data/:/home/app/data/
